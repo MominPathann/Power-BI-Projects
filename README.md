@@ -6,4 +6,4 @@ See the full dashboard here - [App Power BI Link](https://app.powerbi.com/view?r
  
 
 ![Portfolio-Dashboard](Portfolio-dashboard-screenshot(2).png)
-![Portfolio-Dashboard](Portfolio-dashboard-screenshot.png)
+![Portfolio-Dashboard](Portfolio-dashboard-screenshott.png)
