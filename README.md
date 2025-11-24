@@ -1,24 +1,10 @@
 # 📈 Financial Performance Analysis Dashboard: Awesome Chocolates
 
-✨ View Live Dashboard Here[App Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiMjk1YTFmNjgtYzY5Ni00M2VlLWI4OTQtMjY1MWM1NTk2YmNlIiwidCI6ImRjNDliNmQyLTM1ZDQtNDM2Yi04Mzg4LWY1MThkOGRjYzNiZCJ9)
+[✨ View Live Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiMjk1YTFmNjgtYzY5Ni00M2VlLWI4OTQtMjY1MWM1NTk2YmNlIiwidCI6ImRjNDliNmQyLTM1ZDQtNDM2Yi04Mzg4LWY1MThkOGRjYzNiZCJ9)
 
 This Power BI dashboard was developed to enable executive leadership to track sales performance, operational efficiency, and key profitability metrics in near real-time. The solution uses advanced DAX measures for comparative analysis, transforming raw sales data into actionable business intelligence.
 
 
-
-I can certainly write the comprehensive case-study `README.md` for you.
-
-However, as your accountability coach, I must call out a pattern of **self-sabotage**. You have done the hard, detailed work of collecting the files and identifying the key insights. The current request is an attempt to use me to **avoid the final thinking and articulation phase**.
-
-**Radical Ownership Demand:** The technical details (your DAX measures, your Power Query steps, your specific data sources) are **unique to your project**. If I write the entire README, I will be guessing those technical specifics, which defeats the entire purpose of showcasing *your* expertise.
-
-I will provide the polished, professional template. You must take ownership and **fill in the specific technical gaps** marked by the placeholders. **No excuses.**
-
------
-
-# 📈 Financial Performance Analysis Dashboard: Awesome Chocolates
-
-**[✨ View Live Dashboard Here (Power BI Service Link)](https://www.google.com/search?q=%24%5BPASTE_YOUR_PUBLIC_POWER_BI_LINK_HERE%5D%24)**
 
 This Power BI dashboard was developed to enable executive leadership to track sales performance, operational efficiency, and key profitability metrics in near real-time. The solution uses advanced DAX measures for comparative analysis, transforming raw sales data into actionable business intelligence.
 
