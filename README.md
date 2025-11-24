@@ -4,10 +4,6 @@
 
 This Power BI dashboard was developed to enable executive leadership to track sales performance, operational efficiency, and key profitability metrics in near real-time. The solution uses advanced DAX measures for comparative analysis, transforming raw sales data into actionable business intelligence.
 
-
-
-This Power BI dashboard was developed to enable executive leadership to track sales performance, operational efficiency, and key profitability metrics in near real-time. The solution uses advanced DAX measures for comparative analysis, transforming raw sales data into actionable business intelligence.
-
 -----
 
 ### I. The Business Problem (Logic First)
@@ -21,14 +17,10 @@ The objective was to evaluate the sales performance by tracking Key Performance 
 The consolidated dashboard immediately drove the following critical insights:
 
 | Finding | Impact/Recommendation |
-Finding,Impact/Recommendation
-"Revenue Risk: While Year-to-Date (YTD) Total Sales stand at $34M, the company is experiencing a significant 10.6% Month-over-Month decline, requiring immediate strategic adjustment.","Action: Prioritize analysis on high-volume, low-margin products identified on the Product Deep-Dive Tab to optimize pricing strategy and stabilize monthly sales."
-"Profit Stability: Despite the revenue drop, the company maintains a strong 60.35% profit margin, indicating effective cost management ($13.52M Total Cost).","Action: Leadership is advised to focus intervention on sales and revenue generation, leveraging the high margin to support increased marketing spend."
-"Sales Performance: [NAME_OF_TOP_PERFORMER] is the top performer ([SALES_FIGURE] Sales). However, lower-tier performers like [NAME_OF_BOTTOM_PERFORMER] are missing critical operational targets (LOS X), highlighted by the red indicators in the salesperson matrix.","Action: Implement targeted coaching and training for the bottom 20% of the sales team, using the performance metrics available in the dashboard."
-| :--- | :--- |
-| **Revenue Risk:** While Total Sales stand at $*[INSERT\_TOTAL\_SALES\_FIGURE]$,\* the company is experiencing a **$*$[INSERT\_MO M\_DECLINE\_%]$* MoM decline**, requiring immediate strategic adjustment. | **Action:** Prioritize analysis on high-volume, low-margin products identified on the **Product Deep-Dive Tab** to optimize pricing strategy. |
-| **Profit Stability:** Despite the revenue drop, the company maintains a strong **$*$[INSERT\_PROFIT\_MARGIN]$* profit margin**, indicating effective cost management ($*$[INSERT\_TOTAL\_COST]$* Total Cost). | **Action:** Leadership is advised to focus intervention on sales and revenue generation rather than immediate cost-cutting. |
-| **Sales Performance:** **$[NAME\_OF\_TOP\_PERFORMER]$** is the top performer ($*$[SALES\_FIGURE]$* Sales). However, lower-tier performers like **$[NAME\_OF\_BOTTOM\_PERFORMER]$** are missing critical operational targets (LOS X), highlighted by the red indicators in the salesperson matrix. | **Action:** Implement targeted coaching and training for the bottom 20% of the sales team, using the performance metrics available in the dashboard. |
+
+| **Revenue Risk:** While Year-to-Date (YTD) Total Sales stand at $34M, the company is experiencing a significant 10.6% Month-over-Month decline, requiring immediate strategic adjustment. | **Action:** Prioritize analysis on high-volume, low-margin products identified on the Product Deep-Dive Tab to optimize pricing strategy and stabilize monthly sales.|
+| **Profit Stability:**Despite the revenue drop, the company maintains a strong 60.35% profit margin, indicating effective cost management ($13.52M Total Cost). | **Action:** Leadership is advised to focus intervention on sales and revenue generation, leveraging the high margin to support increased marketing spend. |
+| **Sales Performance:** **$Kelci Walkden$**  is the top performer in profit generation. However, lower-tier performers like Van Tuxwell are severely underperforming, highlighted by the red indicators in the salesperson matrix. | **Action:** Implement targeted coaching and training for the bottom 20% of the sales team, using the performance metrics available in the dashboard. |
 
 ### III. Technical Execution & Data Model (The Proof)
 
