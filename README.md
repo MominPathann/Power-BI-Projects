@@ -21,6 +21,10 @@ The objective was to evaluate the sales performance by tracking Key Performance 
 The consolidated dashboard immediately drove the following critical insights:
 
 | Finding | Impact/Recommendation |
+Finding,Impact/Recommendation
+"Revenue Risk: While Year-to-Date (YTD) Total Sales stand at $34M, the company is experiencing a significant 10.6% Month-over-Month decline, requiring immediate strategic adjustment.","Action: Prioritize analysis on high-volume, low-margin products identified on the Product Deep-Dive Tab to optimize pricing strategy and stabilize monthly sales."
+"Profit Stability: Despite the revenue drop, the company maintains a strong 60.35% profit margin, indicating effective cost management ($13.52M Total Cost).","Action: Leadership is advised to focus intervention on sales and revenue generation, leveraging the high margin to support increased marketing spend."
+"Sales Performance: [NAME_OF_TOP_PERFORMER] is the top performer ([SALES_FIGURE] Sales). However, lower-tier performers like [NAME_OF_BOTTOM_PERFORMER] are missing critical operational targets (LOS X), highlighted by the red indicators in the salesperson matrix.","Action: Implement targeted coaching and training for the bottom 20% of the sales team, using the performance metrics available in the dashboard."
 | :--- | :--- |
 | **Revenue Risk:** While Total Sales stand at $*[INSERT\_TOTAL\_SALES\_FIGURE]$,\* the company is experiencing a **$*$[INSERT\_MO M\_DECLINE\_%]$* MoM decline**, requiring immediate strategic adjustment. | **Action:** Prioritize analysis on high-volume, low-margin products identified on the **Product Deep-Dive Tab** to optimize pricing strategy. |
 | **Profit Stability:** Despite the revenue drop, the company maintains a strong **$*$[INSERT\_PROFIT\_MARGIN]$* profit margin**, indicating effective cost management ($*$[INSERT\_TOTAL\_COST]$* Total Cost). | **Action:** Leadership is advised to focus intervention on sales and revenue generation rather than immediate cost-cutting. |
@@ -39,7 +43,7 @@ This project showcases end-to-end BI skills, including robust data modeling and 
 This repository is structured to provide full transparency of the project:
 
   * `/PowerBI_Source/`: Contains the final, anonymized **.pbix** file for full inspection of the data model and DAX code.
-  * `/Data/`: Contains the anonymized raw data source file (e.g., `sales_data_anonymized.csv`).
+  * `/Data/`: Contains the anonymized raw data source file (`raw-data.csv`).
   * `/Screenshots/`: Contains high-resolution dashboard previews and GIFs.
 ![Portfolio-Dashboard](Portfolio-dashboard-screenshot(2).png)
 ![Portfolio-Dashboard](Portfolio-dashboard-screenshott.png)
