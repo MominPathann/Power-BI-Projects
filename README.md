@@ -27,7 +27,8 @@ The consolidated dashboard immediately drove the following critical insights:
 
 This project showcases end-to-end BI skills, including robust data modeling and advanced calculations:
 
-  * **Data Model Architecture:** Implemented a Star Schema by linking 4 dimension tables (products, people, calendar, locations) to the central fact table (shipments), ensuring efficient query performance and relationship integrity. * Data Transformation (Power Query / M-Code): Used Power Query to unpivot regional sales columns into a single column (Sales), and merged the result with the geography dimension table to resolve a many-to-many relationship issue and simplify the fact table.
+  * **Data Model Architecture:** Implemented a Star Schema by linking 4 dimension tables (products, people, calendar, locations) to the central fact table (shipments), ensuring efficient query performance and relationship integrity. *
+  * **Data Transformation (Power Query / M-Code)**: Used Power Query to unpivot regional sales columns into a single column (Sales), and merged the result with the geography dimension table to resolve a many-to-many relationship issue and simplify the fact table.
   * **DAX Measures Implementation:** *Implemented a [Rolling 90-Day Average Sales] measure using CALCULATE and DATESINPERIOD for trend smoothing, alongside critical MoM % Change measures for time intelligence reporting.*
 
 ### IV. Repository Contents
