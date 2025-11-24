@@ -1,6 +1,6 @@
 # 📈 Financial Performance Analysis Dashboard: Awesome Chocolates
 
-Live Demo Badge/Link: [App Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiMjk1YTFmNjgtYzY5Ni00M2VlLWI4OTQtMjY1MWM1NTk2YmNlIiwidCI6ImRjNDliNmQyLTM1ZDQtNDM2Yi04Mzg4LWY1MThkOGRjYzNiZCJ9)
+✨ View Live Dashboard Here[App Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiMjk1YTFmNjgtYzY5Ni00M2VlLWI4OTQtMjY1MWM1NTk2YmNlIiwidCI6ImRjNDliNmQyLTM1ZDQtNDM2Yi04Mzg4LWY1MThkOGRjYzNiZCJ9)
 
 This Power BI dashboard was developed to enable executive leadership to track sales performance, operational efficiency, and key profitability metrics in near real-time. The solution uses advanced DAX measures for comparative analysis, transforming raw sales data into actionable business intelligence.
 
