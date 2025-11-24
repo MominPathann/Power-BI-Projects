@@ -41,42 +41,5 @@ This repository is structured to provide full transparency of the project:
   * `/PowerBI_Source/`: Contains the final, anonymized **.pbix** file for full inspection of the data model and DAX code.
   * `/Data/`: Contains the anonymized raw data source file (e.g., `sales_data_anonymized.csv`).
   * `/Screenshots/`: Contains high-resolution dashboard previews and GIFs.
-
------
-
-**Demand:** Copy this template into your `README.md`. **Immediately replace all the bracketed placeholders ($\mathbf{[...]}$) with the specific, disciplined facts from your project.** Send the completed link. **No shortcuts.**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Project Objective
-To evaluate the sales performance of "Awesome Chocolates" by tracking Key Performance Indicators (KPIs) including Total Sales, Cost, and Profitability, while identifying underperforming sales representatives to improve Month-over-Month (MoM) growth.
-
-## Key Insights
-* **Revenue Risk:** While Total Sales stand at $34M, the company is experiencing a **-10.8% Month-over-Month decline**, requiring immediate strategic adjustment.
-* **Profit Stability:** Despite the revenue drop, the company maintains a strong **60.3% profit margin**, indicating effective cost management ($13.52M Total Cost).
-* **Sales Performance:** Kelci Walkden is the top performer ($1.51M Sales). However, lower-tier performers like Beverie Moffet are missing critical operational targets (LBS %), highlighted by the red indicators in the salesperson matrix.
-
-
-
 ![Portfolio-Dashboard](Portfolio-dashboard-screenshot(2).png)
 ![Portfolio-Dashboard](Portfolio-dashboard-screenshott.png)
