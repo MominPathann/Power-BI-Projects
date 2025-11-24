@@ -1,6 +1,6 @@
-# Power BI Sales Dashboard
-
-Repository for all Power BI reports, datasets, and M/DAX scripts. Used for version control of business intelligence projects.
+# Financial Performance Analysis Dashboard
+Live Demo Badge/Link: [App Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiMjk1YTFmNjgtYzY5Ni00M2VlLWI4OTQtMjY1MWM1NTk2YmNlIiwidCI6ImRjNDliNmQyLTM1ZDQtNDM2Yi04Mzg4LWY1MThkOGRjYzNiZCJ9)
+This Power BI dashboard was developed to enable executive leadership to track real-time (or near real-time) operational efficiency and identify key drivers of customer churn using complex DAX measures.
 
 ## Project Objective
 To evaluate the sales performance of "Awesome Chocolates" by tracking Key Performance Indicators (KPIs) including Total Sales, Cost, and Profitability, while identifying underperforming sales representatives to improve Month-over-Month (MoM) growth.
@@ -11,6 +11,6 @@ To evaluate the sales performance of "Awesome Chocolates" by tracking Key Perfor
 * **Sales Performance:** Kelci Walkden is the top performer ($1.51M Sales). However, lower-tier performers like Beverie Moffet are missing critical operational targets (LBS %), highlighted by the red indicators in the salesperson matrix.
 
 
-See the full dashboard here - [App Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiMjk1YTFmNjgtYzY5Ni00M2VlLWI4OTQtMjY1MWM1NTk2YmNlIiwidCI6ImRjNDliNmQyLTM1ZDQtNDM2Yi04Mzg4LWY1MThkOGRjYzNiZCJ9)
+
 ![Portfolio-Dashboard](Portfolio-dashboard-screenshot(2).png)
 ![Portfolio-Dashboard](Portfolio-dashboard-screenshott.png)
