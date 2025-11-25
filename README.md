@@ -39,7 +39,7 @@ This repository is structured to provide full transparency of the project:
   * `/PowerBI_Source/`: Contains the final, anonymized **.pbix** file for full inspection of the data model and DAX code.
   * `/Data/`: Contains the anonymized raw data source file (e.g., raw-data.csv).
   * `/Screenshots/`: Contains high-resolution dashboard previews and GIFs.
-![Portfolio-Dashboard](Portfolio-dashboard-screenshot(2).png)
+![Portfolio-Dashboard](Screenshots/Portfolio-dashboard-screenshot(2).png)
 ![Portfolio-Dashboard](Data_model_view_screenshot.png)
 ![Portfolio-Dashboard](Salesperson_screenshot.png)
 ![Portfolio-Dashboard](Portfolio-dashboard-screenshott.png)
