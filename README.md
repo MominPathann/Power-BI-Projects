@@ -41,6 +41,6 @@ This repository is structured to provide full transparency of the project:
   * `/Screenshots/`: Contains high-resolution dashboard previews and GIFs.
 ![Portfolio-Dashboard](Screenshots/Portfolio-dashboard-screenshot(2).png)
 ![Portfolio-Dashboard](Screenshots/data-model-view.png)
-![Portfolio-Dashboard](Screenshots/Salesperson_screenshot.png)
+![Portfolio-Dashboard](Screenshots/Salesperson-screenshot.png)
 ![Portfolio-Dashboard](Screenshots/Portfolio-dashboard-screenshott.png)
 
