@@ -27,9 +27,9 @@ The consolidated dashboard immediately drove the following critical insights:
 
 This project showcases end-to-end BI skills, including robust data modeling and advanced calculations:
 
-  * **Data Model Architecture:** Implemented a Star Schema by linking 4 dimension tables (products, people, calendar, locations) to the central fact table (shipments), ensuring efficient query performance and relationship integrity. *
+  * **Data Model Architecture:** Implemented a Star Schema by linking 4 dimension tables (products, people, calendar, locations) to the central fact table (shipments), ensuring efficient query performance and relationship integrity. 
   * **Data Transformation (Power Query / M-Code):** Generated a dedicated Calendar Dimension Table within Power Query, ensured it was marked as a Date Table, and derived additional columns (Year, Month Name) necessary for time intelligence visualizations and MoM calculations.
-  * **DAX Measures Implementation:** *Implemented a [Rolling 90-Day Average Sales] measure using CALCULATE and DATESINPERIOD for trend smoothing, alongside critical MoM % Change measures for time intelligence reporting.*
+  * **DAX Measures Implementation:** Implemented a [Rolling 90-Day Average Sales] measure using CALCULATE and DATESINPERIOD for trend smoothing, alongside critical MoM % Change measures for time intelligence reporting.
   * **Visualization Enhancement:** Incorporated a custom Report Page Tooltip on the primary time-series line chart to function as a Trend Tooltip, providing users with detailed drill-down metrics upon hover and significantly enhancing the interactive user experience (UX).
 
 ### IV. Repository Contents
