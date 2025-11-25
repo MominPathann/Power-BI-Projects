@@ -40,7 +40,7 @@ This repository is structured to provide full transparency of the project:
   * `/Data/`: Contains the anonymized raw data source file (e.g., raw-data.csv).
   * `/Screenshots/`: Contains high-resolution dashboard previews and GIFs.
 ![Portfolio-Dashboard](Screenshots/Portfolio-dashboard-screenshot(2).png)
-![Portfolio-Dashboard](Data_model_view_screenshot.png)
-![Portfolio-Dashboard](Salesperson_screenshot.png)
-![Portfolio-Dashboard](Portfolio-dashboard-screenshott.png)
+![Portfolio-Dashboard](Screenshots/Data_model_view_screenshot.png)
+![Portfolio-Dashboard](Screenshots/Salesperson_screenshot.png)
+![Portfolio-Dashboard](Screenshots/Portfolio-dashboard-screenshott.png)
 
